@@ -1,6 +1,6 @@
   <!-- https://github.com/kyechan99/capsule-render -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=21bcff&height=300&section=header&text=Jeong%20Hyeonsu👋&fontSize=70&fontColor=0c2e3d)
+![header](https://capsule-render.vercel.app/api?type=waving&color=21bcff&height=260&section=header&text=Jeong%20Hyeonsu%20👋&fontAlignY=40&fontSize=60&fontColor=0c2e3d&animation=twinkling)
 
   <h1 align="flex-start">⚙️ Stack</h1>
 <div align="flex-start">
@@ -34,6 +34,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcrown0205&count_bg=%230EA2E1&title_bg=%233D3C3C&icon=&icon_color=%23EDEDED&title=WELCOME&edge_flat=flase)](https://hits.seeyoufarm.com)
 
 </div>
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient)
 
 <!-- 추후 -->
 <!--
