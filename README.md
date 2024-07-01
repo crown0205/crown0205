@@ -1,25 +1,67 @@
   <!-- https://github.com/kyechan99/capsule-render -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=21bcff&height=260&section=header&text=Jeong%20Hyeonsu%20👋&fontAlignY=40&fontSize=60&fontColor=0c2e3d&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=21bcff&height=260&section=header&text=Hello!%20WelCome%20👋&fontAlignY=40&fontSize=60&fontColor=0c2e3d&animation=twinkling)
+
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front-end+Developer;I'm+a+Front-end+Developer" /></a>
+</p>
+
+👋 Hi, I am Hyeonsu Jeong <br>
+📚 I am currently studying JavaScript and React.<br>
+🖌 I am putting together my portfolio.<br><br>
+
+<!-- [![](https://img.shields.io/badge/Blog-Us.noeyh_blog-blue)](https://us-noehy-blog.vercel.app) -->
+
+[![](https://img.shields.io/badge/Gmail-crown0205%40gmail.com-red)](crown0205@gmail.com)
+
+<br/>
+<hr/>
 
   <h1 align="flex-start">⚙️ Stack</h1>
+  
 <div align="flex-start">
-<img src="https://img.shields.io/badge/JavaScript-FFCD11?style=for-the-badge&logo=JavaScript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-00BCF6?style=for-the-badge&logo=React&logoColor=white" />
-<!-- <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" /> -->
-<img src="https://img.shields.io/badge/-Redux-%23764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white" />
-<img src="https://img.shields.io/badge/StyledComponents-DB7093?style=for-the-badge&logo=StyledComponents&logoColor=white" />
-  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
+<!-- js -->
+<img src="https://img.shields.io/badge/JavaScript-FFCD11?style=badge&logo=JavaScript&logoColor=white" />
+<!-- type -->
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=badge&logo=TypeScript&logoColor=FFF" />
+<!-- react -->
+<img src="https://img.shields.io/badge/React-00BCF6?style=badge&logo=React&logoColor=white" />
+<!-- next -->
+<img src="https://img.shields.io/badge/Next.js-000000?style=badge&logo=Next.js&logoColor=white" />
+<br/>
+<!-- redux -->
+<img src="https://img.shields.io/badge/Redux-764ABC?style=badge&logo=Redux&logoColor=white" />
+<!-- recoil -->
+<img src="https://img.shields.io/badge/Recoil-99C7FF?style=badge&logo=Recoil&logoColor=white" />
+<!-- zustand -->
+<img src="https://img.shields.io/badge/Zustand-000000?style=badge&logo=Zustand&logoColor=white" />
+<br/>
+<!-- tailwindcss -->
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=badge&logo=Tailwind-CSS&logoColor=white" />
+<!-- styled-components -->
+<img src="https://img.shields.io/badge/StyledComponents-DB7093?style=badge&logo=StyledComponents&logoColor=white" />
+<!-- firebase -->
+  <img src="https://img.shields.io/badge/firebase-FFCA28?style=badge&logo=firebase&logoColor=white" />
   <br />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&&logo=HTML5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-0A84FF?style=for-the-badge&&logo=CSS3&logoColor=white" />
-<img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&&logo=Sass&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=badge&&logo=HTML5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-0A84FF?style=badge&&logo=CSS3&logoColor=white" />
+<img src="https://img.shields.io/badge/SCSS-CC6699?style=badge&&logo=Sass&logoColor=white" />
+
+<!-- 추후 -->
+<!-- node -->
+<!-- <img src="https://img.shields.io/badge/-Node.js-%23339933.svg?style=badge&logo=Node.js&logoColor=white" /> -->
+<!-- express -->
+<!-- <img src="https://img.shields.io/badge/Express-000000?style=badge&logo=Express&logoColor=white" /> -->
+<!-- graphQL -->
+<!-- <img src="https://img.shields.io/badge/GraphQL-E10098?style=badge&logo=GraphQL&logoColor=white" /> -->
+<!-- reduxSaga -->
+<!-- <img src="https://img.shields.io/badge/ReduxSaga-999999?style=badge&logo=Redux-Saga&logoColor=white" /> -->
+<!-- recoil -->
 
   <br />
   <br />
   <br />
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crown0205&theme=prussian&show_icons=true)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crown0205&theme=prussian&show_icons=true) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crown0205&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -44,9 +86,9 @@
   <!-- https://simpleicons.org/ 아이콘 -->
   <!-- https://shields.io/ 라벨 -->
 
-  <!-- ==================================================================================================================================================================================================================================================================================================== -->
+## <!-- ==================================================================================================================================================================================================================================================================================================== -->
 
-<!-- ----
+<!--
 
 <h1> Hello Fellow < Developers/ >! 👋 </h1>
 <p align='center'>
